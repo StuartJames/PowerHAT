@@ -15,12 +15,12 @@
 Key Features
 ============
 
-* Provides 5V at 3A:
-    * 1 static supply output.
-    * 2 switched supply outputs.
-    * Includes ROM for complience.
-    * 12V-36V tolerent.
+    * Provides 5V at 3A:
+    * 9V-36V input tolerent.
+    * 1 x static supply output.
+    * 2 x switched supply outputs.
     * Cooling fan.
+    * Includes ROM for complience.
 
 
 To Do
