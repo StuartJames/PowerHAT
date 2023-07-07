@@ -1,5 +1,5 @@
 12V PowerHAT.
-..........................
+============
 
 :Stable release:  Released.
 
