@@ -3,7 +3,7 @@
 
 :Stable release:  Released.
 
-:Status:  Intila.
+:Status:  Operational.
 
 :Maintainer:  sjames@hydrasystems.com
 
@@ -16,11 +16,11 @@ Key Features
 ============
 
     * Provides 5V at 3A:
-    * 9V-36V input tolerent.
+    * 9V-36V input tolerant.
     * 1 x static supply output.
     * 2 x switched supply outputs.
     * Cooling fan.
-    * Includes ROM for complience.
+    * Includes ROM for compliance.
 
 
 To Do
